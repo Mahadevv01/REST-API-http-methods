@@ -1,0 +1,23 @@
+REST API --JSON
+
+GET/USER-HTML DOCUMENT RENDER
+
+GET/api/user - list the user  JSON
+
+GET/api/user/1 - get the user with ID 1
+
+GET/api/user/2 - get the user with ID 2
+
+POST/api/user - create a user 
+
+PATCH/api/user/id  - edit the user with ID 1
+
+DELETE/api/user/1:  delete the user with ID 1
+
+
+//DYNAMIC PATH VARIABLE 
+
+:ID==> VARIABLE | DYNAMIC
+
+
+AGAR API NHI HAIN TOH JSON DATA THROUGH KAREGA OTHERWISE HTML DATA RENDR KAREGA
