@@ -72,6 +72,5 @@ Status Codes:
 
 ## Resources
 
-- [Express Documentation](https://expressjs.com/en/guide.html)
-- [MDN Web Docs - HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+
 -
