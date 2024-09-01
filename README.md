@@ -74,4 +74,4 @@ Status Codes:
 
 - [Express Documentation](https://expressjs.com/en/guide.html)
 - [MDN Web Docs - HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-- [Video Tutorial on HTTP Methods](https://www.youtube.com/watch?v=1OjoBopM9cM)
+-
